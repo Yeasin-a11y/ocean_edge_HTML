@@ -1,0 +1,28 @@
+
+/* header start*/
+header{
+background-color: #121B2A;
+}
+
+.wrapper{
+border: 5px solid green;
+width:80%;
+margin: 0 auto;
+overflow: hidden;
+}
+.logo{
+width: 15%;
+border:1px solid white;
+float: left;
+}
+
+.logo img{
+width: 100%;
+}
+
+
+.menu{
+width: 70%
+border:1px solid white;
+float: right;
+}
